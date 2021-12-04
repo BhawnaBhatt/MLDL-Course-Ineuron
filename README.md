@@ -1,3 +1,3 @@
 # MLDL-Course-Ineuron
-These are exercises for the course ML-DL Masters
+These are assignment exercises for the course ML-DL Masters
 
